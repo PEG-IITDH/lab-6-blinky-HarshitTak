@@ -234,17 +234,17 @@ Whenever we press the switch 1 on the board1, 0xF0 is transmitted to the board a
 ## Output :
 ### Output for F0 Transmite<br>
 
-![Output for F0 Transmitee]([https://github.com/HarshitTak/Test/blob/main/Image/50%20duty%20cycle.jpg](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/F0_transmit.png))
+![Output for F0 Transmitee](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/F0_transmit.png)
 
 ### Output for AA Transmite<br>
 
-![ Output for AA Transmite]([https://github.com/HarshitTak/Test/blob/main/Image/40%20duty%20cycle.jpg](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/AA_transmit.png))
+![ Output for AA Transmite](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/AA_transmit.png)
 
 ### Output for F0 Receive<br>
 ![ Output for F0 Receive](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/F0_recieve.png)
 
 ### Output for AA Receive<br>
-![Output for AA Receive]([https://github.com/HarshitTak/Test/blob/main/Image/45%20duty%20cycle.jpg](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/AA_receive.png)https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/AA_receive.png)
+![Output for AA Receive](https://github.com/PEG-IITDH/lab-6-blinky-HarshitTak/blob/main/Desktop/Lab_8_UART/IMAGES/AA_receive.png)
 
 
 
